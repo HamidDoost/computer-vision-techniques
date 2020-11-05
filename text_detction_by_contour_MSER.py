@@ -1,6 +1,6 @@
 '''
 ===============================================================================
--- Author:		Hamid Doostmohammadi, Azadeh Nazemi
+-- Author:      Hamid Doostmohammadi, Azadeh Nazemi
 -- Create date: 04/11/2020
 -- Description:	This code is for text detection using contours and 
                 Maximally Stable Extremal Regions (MSER)feature detector. 

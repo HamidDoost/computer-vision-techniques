@@ -1,6 +1,6 @@
 '''
 ===============================================================================
--- Author:		Hamid Doostmohammadi, Azadeh Nazemi
+-- Author:      Hamid Doostmohammadi, Azadeh Nazemi
 -- Create date: 04/11/2020
 -- Description:	This code finds similarity (SSIM), distance (Hash), 
                 mean square error (MSE) and Chi-square distance (Chi) for 

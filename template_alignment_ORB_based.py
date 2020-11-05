@@ -1,6 +1,6 @@
 '''
 ===============================================================================
--- Author:		Hamid Doostmohammadi, Azadeh Nazemi
+-- Author:      Hamid Doostmohammadi, Azadeh Nazemi
 -- Create date: 04/11/2020
 -- Description:	This codes is for aligning templates bade on ORB. 
                 ORB (Oriented FAST and Rotated BRIEF) ORB is a FAST keypoint 

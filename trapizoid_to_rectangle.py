@@ -1,6 +1,6 @@
 '''
 ===============================================================================
--- Author:		Hamid Doostmohammadi, Azadeh Nazemi
+-- Author:      Hamid Doostmohammadi, Azadeh Nazemi
 -- Create date: 04/11/2020
 -- Description:	This code is for converting trapizoid  to rectangle.
                 TRANSFRRIING 4 CURRENT  CORNERS T  RAPIZOIS BY ORDER  TL,TR,BR,BL. 
